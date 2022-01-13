@@ -1,0 +1,13 @@
+body{
+  background: #ffe;
+  line-height: 1.5rem;
+}
+.formy{
+  margin: 30px;
+  line-height: 2rem;
+  padding: 30px;
+}
+
+h1{
+  padding: 20px
+}
